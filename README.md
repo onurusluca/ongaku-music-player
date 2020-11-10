@@ -1,2 +1,2 @@
-# ongaku-music-player
-A simple music player.
+# Ongaku Music Player
+A simple music player made with Vue.js
